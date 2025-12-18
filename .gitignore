@@ -7,6 +7,8 @@
 
 # Fresh build directory
 _fresh/
+# Vite build directory
+dist/
 # npm dependencies
 node_modules/
 
